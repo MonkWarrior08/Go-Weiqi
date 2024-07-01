@@ -21,7 +21,7 @@ This is a simple implementation of the classic board game Go (also known as Weiq
 1. Clone this repository:
    ```
    git clone https://github.com/MonkWarrior08/Go-Weiqi.git
-   cd python-go-game
+   cd go
    ```
 
 2. Install the required dependencies:
@@ -33,7 +33,7 @@ This is a simple implementation of the classic board game Go (also known as Weiq
 
 1. Run the game:
    ```
-   python go_game.py
+   python go.py
    ```
 
 2. The game window will open, showing the Go board.
