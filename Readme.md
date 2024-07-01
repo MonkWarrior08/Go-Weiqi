@@ -20,7 +20,7 @@ This is a simple implementation of the classic board game Go (also known as Weiq
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/python-go-game.git
+   git clone https://github.com/MonkWarrior08/Go-Weiqi.git
    cd python-go-game
    ```
 
