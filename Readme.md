@@ -20,8 +20,8 @@ This is a simple implementation of the classic board game Go (also known as Weiq
 
 1. Clone this repository:
    ```
-   git clone https://github.com/MonkWarrior08/Go-Weiqi.git
-   cd go
+   git clone https://github.com/MonkWarrior08/Go-Weiqi-Game_Engine.git
+   cd Go-Weiqi-Game_Engine
    ```
 
 2. Install the required dependencies:
@@ -51,30 +51,8 @@ This is a simple implementation of the classic board game Go (also known as Weiq
 
 6. Close the window to end the game.
 
-## Game Controls
-
-- Left Mouse Button: Place a stone
-- Close Window Button: Exit the game
-
-## Limitations
-
-- This implementation does not include all advanced Go rules such as ko or suicide prevention.
-- The game does not have an AI opponent; it's designed for two human players.
-- There is no game-ending condition implemented; players need to manually close the game when finished.
-
-## Contributing
-
-Contributions to improve the game are welcome! Please feel free to submit pull requests or open issues to suggest enhancements or report bugs.
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Acknowledgments
-
-- This project was created as a learning exercise and is not intended for professional use.
-- Thanks to the Pygame community for their excellent documentation and resources.
-
----
-
-Enjoy playing Go! If you have any questions or suggestions, please open an issue in the GitHub repository.
